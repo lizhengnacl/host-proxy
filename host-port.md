@@ -4,6 +4,7 @@
 127.0.0.1 qa.neixin.cn 9800
 127.0.0.1 web.xm.test.sankuai.com 9800
 127.0.0.1 test.admin.dev.neixin.cn 9003
+127.0.0.1 admin.dev.neixin.cn 9005
 
 #st
 127.0.0.1 oa.xm.st.neixin.cn 9002
