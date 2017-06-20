@@ -1,5 +1,5 @@
 {
-  "name": "hostProxy",
+  "name": "simple-host-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
