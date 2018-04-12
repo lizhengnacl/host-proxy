@@ -21,7 +21,7 @@ the `host-port.md` file looks like this.
 127.0.0.1 oa.st.neixin.cn 9002
 127.0.0.1 test.xm.st.sankuai.com 9800
 127.0.0.1 st.neixin.cn 9800
-127.0.0.1 st.x.sankuai.com 9800npm 
+127.0.0.1 st.x.sankuai.com 9800
 
 #pro
 127.0.0.1 neixin.cn 9800
