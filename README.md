@@ -7,5 +7,23 @@ sudo node index.js
 ```
 
 the `host-port.md` file looks like this.
+```
+#dev
+127.0.0.1 oa.dev.neixin.cn 9002
+127.0.0.1 oa.web.xm.test.sankuai.com 9002
+127.0.0.1 qa.neixin.cn 9800
+127.0.0.1 web.xm.test.sankuai.com 9800
+127.0.0.1 test.admin.dev.neixin.cn 9003
+127.0.0.1 admin.dev.neixin.cn 9005
 
-![host port](https://file.neixin.cn/pan/im/2/image/AvOfpeikE0NsmjmxqyVZa0WWPqv4_YNzw0RgEul-2q4GJl64mBUrkf_LiaSuxXkS3A)
+#st
+127.0.0.1 oa.xm.st.neixin.cn 9002
+127.0.0.1 oa.st.neixin.cn 9002
+127.0.0.1 test.xm.st.sankuai.com 9800
+127.0.0.1 st.neixin.cn 9800
+127.0.0.1 st.x.sankuai.com 9800npm 
+
+#pro
+127.0.0.1 neixin.cn 9800
+127.0.0.1 x.sankuai.com 9800
+```
